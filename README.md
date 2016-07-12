@@ -2,7 +2,7 @@
 Small class that can authenticate a Office365 user using a ADFS proxy service following O365 SSO recommended guidelines.
 
 # Usage:
-$auth = new Office365Authenticator();
+$auth = new Office365Authenticator(); <br/>
 $authenticated = $auth -> authenticate("firstname.lastname@yourcompany.net", "password"); //true or false.
 
 # To do:
