@@ -1,7 +1,7 @@
 <?php
 
 //Usage
-//$auth = new Office365Authenticator();
+//$auth = new Office365ADFSProxyAuthenticator();
 //$authenticated = $auth -> authenticate("firstname.lastname@yourcompany.net", "password");
 
 
